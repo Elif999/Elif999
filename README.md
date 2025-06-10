@@ -1,37 +1,6 @@
-<h1 align="center">Merhaba 👋, ben Elif</h1>
-<h3 align="center">Türkiye'de bir yazılım geliştiricisiyim</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=elif999&label=Profile%20views&color=0e75b6&style=flat" alt="elif999" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=elif999" alt="elif999" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a>
-</p>
-
-- 🔭 Şu anda ilgilendiğim konular: **C# Form, Veritabanları, Siber Güvenlik, Network, Masaüstü Uygulamaları**
-
-- 🌱 Şu anda öğreniyorum: **C# Form**, **Siber Güvenlik**, **Ağ (Network) Sistemleri**
-
-- 💬 Bana **C# Form**, **Siber Güvenlik**, **Ağ (Network)** konularında soru sorabilirsin
-
-- 📫 Bana ulaş: **starelom01@gmail.com**
-
----
-
-<h3 align="left">Benimle iletişime geç:</h3>
-<p align="left"></p>
-
 <h3 align="left">Diller ve Araçlar:</h3>
 <p align="left"> 
+  <!-- Web & Programlama Dilleri -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -56,6 +25,33 @@
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
+
+  <!-- Sistem ve Güvenlik Araçları -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Virtualbox_logo.png" alt="virtualbox" width="40" height="40"/>
+  </a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kalilinux" width="40" height="40"/>
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Wireshark_icon.svg" alt="wireshark" width="40" height="40"/>
+  </a>
+
+  <!-- IDE ve Geliştirme Ortamları -->
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://developer.android.com/studio/images/studio-icon.svg" alt="androidstudio" width="40" height="40"/>
+  </a>
+
+  <!-- Diğer Araçlar -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -65,15 +61,4 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Wireshark_icon.svg" alt="wireshark" width="40" height="40"/>
-  </a>
 </p>
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elif999&show_icons=true&locale=tr&layout=compact" alt="elif999" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=elif999&show_icons=true&locale=tr" alt="elif999" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elif999&" alt="elif999" /></p>
