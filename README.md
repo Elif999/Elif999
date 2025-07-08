@@ -20,7 +20,3 @@
 <a href="https://react.dev/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 </a>
-<!-- Ağ ve Network Bilgisi -->
-<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Wireshark_icon.svg" alt="network" width="40" height="40"/>
-</a>
