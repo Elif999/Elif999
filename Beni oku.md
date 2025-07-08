@@ -16,3 +16,4 @@ Hedefim hem yazılım hem de güvenlik alanında yetkin olmak.
 Disiplinli ve odaklıyım, problemleri algoritmik ve yaratıcı çözümlerle aşmayı seviyorum.
 Takım çalışmasına ve fikir alışverişine oldukça uyum sağlayabiliyorum; iş birliği içinde gelişmenin gücüne inanıyorum.
 Öğrenme sürecim hiç bitmiyor; projelerle deneyim kazanarak ilerlemeye devam ediyorum.
+[LinkedIn Sertifika Paylaşımım](https://www.linkedin.com/feed/update/urn:li:ugcPost:7348375245768044546)
