@@ -35,4 +35,70 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+
+  <!-- Sistem ve Güvenlik Araçları -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Virtualbox_logo.png" alt="virtualbox" width="40" height="40"/>
+  </a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kalilinux" width="40" height="40"/>
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Wireshark_icon.svg" alt="wireshark" width="40" height="40"/>
+  </a>
+
+  <!-- IDE ve Geliştirme Ortamları -->
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a>
+  <!-- Android Studio - öğreniyor -->
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer" title="Öğreniyor...">
+    <img src="https://developer.android.com/studio/images/studio-icon.svg" alt="androidstudio (öğreniyor)" width="40" height="40"/>
+  </a>
+
+  <!-- Diğer Araçlar -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  </a>
+  <!-- Cisco Packet Tracer - Network -->
+  <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/cisco_packet_tracer_logo_icon_168288.png" alt="cisco-packet-tracer" width="40" height="40"/>
+  </a>
+  <!-- Node.js - öğreniyor -->
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer" title="Öğreniyor...">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs (öğreniyor)" width="40" height="40"/>
+  </a>
+  <!-- Expo Go - öğreniyor -->
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer" title="Öğreniyor...">
+    <img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" alt="expo (öğreniyor)" width="40" height="40"/>
+  </a>
+  <!-- Electron.js - öğreniyor -->
+  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer" title="Öğreniyor...">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron (öğreniyor)" width="40" height="40"/>
+  </a>
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <!-- SQL Server / Veritabanı -->
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="sql-server" width="40" height="40"/>
+  </a>
+</p>
