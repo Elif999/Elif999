@@ -101,4 +101,5 @@
   <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="sql-server" width="40" height="40"/>
   </a>
+  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7348375245768044546?collapsed=1" height="619" width="504" frameborder="0" allowfullscreen="" title="Gömülü gönderi"></iframe>
 </p>
