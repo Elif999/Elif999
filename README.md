@@ -13,17 +13,14 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
   </a>
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="aspnet" width="40" height="40"/>
-  </a>
+
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/API" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/4727/4727495.png" alt="api" width="40" height="40"/>
   </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
 
-  <!-- Java ve SQLite - öğreniyor -->
+
+  <!-- Java ve SQL - öğreniyor -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer" title="Öğreniyor...">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java (öğreniyor)" width="40" height="40"/>
   </a>
@@ -81,18 +78,8 @@
   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/cisco_packet_tracer_logo_icon_168288.png" alt="cisco-packet-tracer" width="40" height="40"/>
   </a>
-  <!-- Node.js - öğreniyor -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer" title="Öğreniyor...">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs (öğreniyor)" width="40" height="40"/>
-  </a>
-  <!-- Expo Go - öğreniyor -->
-  <a href="https://expo.dev/" target="_blank" rel="noreferrer" title="Öğreniyor...">
-    <img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" alt="expo (öğreniyor)" width="40" height="40"/>
-  </a>
-  <!-- Electron.js - öğreniyor -->
-  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer" title="Öğreniyor...">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron (öğreniyor)" width="40" height="40"/>
-  </a>
+
+
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
